@@ -1,0 +1,43 @@
+{
+  "id": "7c8f6aa4-5a4e-4212-951b-2e42b8f54af6",
+  "filename": "users",
+  "path": "/api",
+  "routesHash": {
+    "254a4087-7e03-4b99-abaa-fa96698673dc": {
+      "description": "",
+      "routePath": "/api",
+      "method": "get",
+      "activeResponseId": "adeb010d-4a7d-497b-90fa-801dd99d91b8",
+      "responsesHash": {
+        "adeb010d-4a7d-497b-90fa-801dd99d91b8": {
+          "id": "adeb010d-4a7d-497b-90fa-801dd99d91b8",
+          "name": "",
+          "description": "",
+          "res": {
+            "code": 200,
+            "data": {
+              "user": {
+                "id": 12
+              }
+            },
+            "headers": {}
+          },
+          "exec": null,
+          "url": null,
+          "type": "obj",
+          "blockProxy": false
+        }
+      },
+      "withParams": false,
+      "paramKey": null,
+      "paramType": "body",
+      "paramValue": null,
+      "id": "254a4087-7e03-4b99-abaa-fa96698673dc"
+    }
+  },
+  "graphQlRouteHash": {},
+  "type": "Rest",
+  "name": "",
+  "schemaPath": "",
+  "graphqlQueriesType": "Query"
+}
