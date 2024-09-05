@@ -1,0 +1,9 @@
+{
+  "proxyBaseUrl": "https://jsonplaceholder.typicode.com",
+  "forceProxy": true,
+  "delay": 0,
+  "port": 3006,
+  "reWriteCookieDomain": false,
+  "simplifyCookies": false,
+  "duplicateCookies": false
+}

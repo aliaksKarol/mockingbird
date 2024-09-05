@@ -1,25 +1,21 @@
 {
-  "id": "d7503cc6-02ac-4a8f-a798-e74abcd821a9",
+  "id": "8110b5b0-e82f-4f14-b0ea-ef07eb56e15f",
   "filename": "api",
   "path": "/api",
   "routesHash": {
-    "919ed014-b704-483e-859b-61f32d25346c": {
+    "c05622f0-da34-403e-9bd2-d9a472d47222": {
       "description": "",
       "routePath": "/users",
       "method": "get",
-      "activeResponseId": "3ef29466-2fc2-4429-a036-1e3d30fd90f0",
+      "activeResponseId": "1cb6e607-f455-4c9d-bdb2-bac75804a2a0",
       "responsesHash": {
-        "3ef29466-2fc2-4429-a036-1e3d30fd90f0": {
-          "id": "3ef29466-2fc2-4429-a036-1e3d30fd90f0",
+        "1cb6e607-f455-4c9d-bdb2-bac75804a2a0": {
+          "id": "1cb6e607-f455-4c9d-bdb2-bac75804a2a0",
           "name": "",
           "description": "",
           "res": {
             "code": 200,
-            "data": {
-              "user": {
-                "id": 123
-              }
-            },
+            "data": {},
             "headers": {}
           },
           "exec": null,
@@ -32,7 +28,7 @@
       "paramKey": null,
       "paramType": "body",
       "paramValue": null,
-      "id": "919ed014-b704-483e-859b-61f32d25346c"
+      "id": "c05622f0-da34-403e-9bd2-d9a472d47222"
     }
   },
   "graphQlRouteHash": {},
