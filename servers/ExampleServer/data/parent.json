@@ -12,7 +12,7 @@
       "description": "example route for Mockingbird",
       "routePath": "/getExample",
       "method": "get",
-      "activeResponseId": "9eaf95df-53e1-45b0-ad1a-01f134294811",
+      "activeResponseId": "f9b2af90-4dbb-458b-905b-030adabc6396",
       "responsesHash": {
         "4b616f18-218d-4c0d-9967-20404cda37e9": {
           "id": "4b616f18-218d-4c0d-9967-20404cda37e9",
